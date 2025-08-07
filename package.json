@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "@ui5/cli": "^4.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilsonbernichi/portifolio-newsap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gilsonbernichi/portifolio-newsap/issues"
+  },
+  "homepage": "https://github.com/gilsonbernichi/portifolio-newsap#readme"
 }
